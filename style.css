@@ -3,9 +3,18 @@
     width: 30px;
     margin: 6px;
     border: solid black 3px;
+    border-radius: 6px;
     background-color: pink;
 }
 .exo1 {
     display: flex;
     border-bottom: 3px solid black;
+}
+.exo2 {
+    display: flex;
+    border-bottom: 3px solid black;
+    justify-content: space-between;
+}   
+.exo3 {
+    
 }
