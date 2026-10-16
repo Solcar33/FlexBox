@@ -1,0 +1,11 @@
+.box {
+    height: 30px;
+    width: 30px;
+    margin: 6px;
+    border: solid black 3px;
+    background-color: pink;
+}
+.exo1 {
+    display: flex;
+    border-bottom: 3px solid black;
+}
